@@ -1,3 +1,6 @@
 *://*.voidcn.com/*
 *://*.lai18.com/*
 *://*.jeepxie.net/*
+*://*.voidcc.com/*
+*://*.soinside.com/*
+*://*.xbuba.com/*
