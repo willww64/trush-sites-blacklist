@@ -1,0 +1,1 @@
+# trush-sites-blacklist
