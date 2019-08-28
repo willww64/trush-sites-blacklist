@@ -6,3 +6,4 @@
 *://*.xbuba.com/*
 *://*.codeday.me/*
 *://cloud.tencent.com/developer/ask/*
+*://cloud.tencent.com/*
