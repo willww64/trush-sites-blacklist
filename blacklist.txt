@@ -5,3 +5,4 @@
 *://*.soinside.com/*
 *://*.xbuba.com/*
 *://*.codeday.me/*
+*://cloud.tencent.com/developer/ask/*
