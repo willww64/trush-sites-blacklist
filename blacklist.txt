@@ -4,3 +4,4 @@
 *://*.voidcc.com/*
 *://*.soinside.com/*
 *://*.xbuba.com/*
+*://*.codeday.me/*
