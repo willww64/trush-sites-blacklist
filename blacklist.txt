@@ -10,3 +10,4 @@
 *://*.helplib.com/*
 *://*.codeguide.cn/*
 *://*.chubuntu.com/*
+*://*.icopy.site/*
