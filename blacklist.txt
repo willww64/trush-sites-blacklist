@@ -11,3 +11,4 @@
 *://*.codeguide.cn/*
 *://*.chubuntu.com/*
 *://*.icopy.site/*
+*://*.stackovernet.com/*
