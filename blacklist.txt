@@ -12,4 +12,4 @@
 *://*.chubuntu.com/*
 *://*.icopy.site/*
 *://*.stackovernet.com/*
-*://*.stackoverrun*.com/*
+*://*.stackoverrun.com/*
