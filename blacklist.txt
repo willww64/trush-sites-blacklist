@@ -13,3 +13,4 @@
 *://*.icopy.site/*
 *://*.stackovernet.com/*
 *://*.stackoverrun.com/*
+*://*.howtoing.com/*
