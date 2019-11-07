@@ -14,3 +14,5 @@
 *://*.stackovernet.com/*
 *://*.stackoverrun.com/*
 *://*.howtoing.com/*
+*://*.mlog.club/*
+*://*.ojit.com/*
