@@ -16,3 +16,4 @@
 *://*.howtoing.com/*
 *://*.mlog.club/*
 *://*.ojit.com/*
+*://*.muhai.net/*
