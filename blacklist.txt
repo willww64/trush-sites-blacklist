@@ -17,3 +17,4 @@
 *://*.voidcc.com/*
 *://*.voidcn.com/*
 *://*.xbuba.com/*
+*://*.issuehub.io/*
