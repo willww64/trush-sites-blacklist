@@ -14,6 +14,7 @@
 *://*.soinside.com/*
 *://*.stackovernet.com/*
 *://*.stackoverrun.com/*
+*://*.stackoom.com/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
 *://*.xbuba.com/*
