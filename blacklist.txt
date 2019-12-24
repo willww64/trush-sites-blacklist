@@ -19,3 +19,4 @@
 *://*.voidcn.com/*
 *://*.xbuba.com/*
 *://*.issuehub.io/*
+*://*.websetnet.net/*
