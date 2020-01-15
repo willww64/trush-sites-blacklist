@@ -20,3 +20,4 @@
 *://*.xbuba.com/*
 *://*.issuehub.io/*
 *://*.websetnet.net/*
+*://*.bbsmax.com/*
