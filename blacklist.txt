@@ -21,3 +21,4 @@
 *://*.issuehub.io/*
 *://*.websetnet.net/*
 *://*.bbsmax.com/*
+*://*.qastack.cn/*
