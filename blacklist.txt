@@ -23,3 +23,5 @@
 *://*.bbsmax.com/*
 *://*.qastack.cn/*
 *://*.voorp.com/*
+*://*.ingridfriedrichsen.de/*
+*://*.kutu66.com/*
