@@ -25,3 +25,4 @@
 *://*.voorp.com/*
 *://*.ingridfriedrichsen.de/*
 *://*.kutu66.com/*
+*://*.itranslater.com/*
