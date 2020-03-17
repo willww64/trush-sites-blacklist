@@ -28,5 +28,6 @@
 *://*.kutu66.com/*
 *://*.itranslater.com/*
 *://*.1r1g.com/*
-*://*.dazhuanlan.com/
-*://*.developreference.com/
+*://*.dazhuanlan.com/*
+*://*.developreference.com/*
+*://*.hotbak.net/*
