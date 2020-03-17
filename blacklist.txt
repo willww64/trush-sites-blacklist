@@ -31,3 +31,4 @@
 *://*.dazhuanlan.com/*
 *://*.developreference.com/*
 *://*.hotbak.net/*
+*://*.programgo.com/*
