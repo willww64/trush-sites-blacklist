@@ -32,3 +32,4 @@
 *://*.developreference.com/*
 *://*.hotbak.net/*
 *://*.programgo.com/*
+*://*.codenong.com/*
