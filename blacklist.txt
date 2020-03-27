@@ -33,3 +33,4 @@
 *://*.hotbak.net/*
 *://*.programgo.com/*
 *://*.codenong.com/*
+*://*.icopy.site/*
