@@ -34,3 +34,4 @@
 *://*.programgo.com/*
 *://*.codenong.com/*
 *://*.icopy.site/*
+*://*.denghb.com/*
