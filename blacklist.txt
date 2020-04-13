@@ -35,3 +35,4 @@
 *://*.codenong.com/*
 *://*.icopy.site/*
 *://*.denghb.com/*
+*://*.tastones.com/*
