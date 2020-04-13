@@ -36,3 +36,4 @@
 *://*.icopy.site/*
 *://*.denghb.com/*
 *://*.tastones.com/*
+*://*.geek-share.com/*
