@@ -38,3 +38,4 @@
 *://*.tastones.com/*
 *://*.geek-share.com/*
 *://*.zgserver.com/*
+*://*.readercache.com/*
