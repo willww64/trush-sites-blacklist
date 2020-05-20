@@ -40,3 +40,4 @@
 *://*.zgserver.com/*
 *://*.readercache.com/*
 *://*.coder.work/*
+*://*.bugjia.net/*
