@@ -39,3 +39,4 @@
 *://*.geek-share.com/*
 *://*.zgserver.com/*
 *://*.readercache.com/*
+*://*.coder.work/*
