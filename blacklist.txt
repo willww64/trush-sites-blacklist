@@ -41,3 +41,4 @@
 *://*.readercache.com/*
 *://*.coder.work/*
 *://*.bugjia.net/*
+*://*.it-swarm.dev/*
