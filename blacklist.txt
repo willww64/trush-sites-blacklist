@@ -42,3 +42,5 @@
 *://*.coder.work/*
 *://*.bugjia.net/*
 *://*.it-swarm.dev/*
+*://*.ywnz.com/*
+*://*.shuzhiduo.com/*
