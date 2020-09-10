@@ -44,3 +44,4 @@
 *://*.it-swarm.dev/*
 *://*.ywnz.com/*
 *://*.shuzhiduo.com/*
+*://*.osgeo.cn/*
